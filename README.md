@@ -12,7 +12,7 @@ During this day you will be able to experience the various cloud services from O
 
 
 ## Application Development ##
-+ [DevStar Lab](https://github.com/mkleinb/devstarCode/README.md) - Join a rebel squad, develop Microservices together and defeat the DevStar backend application
++ [DevStar Lab](https://github.com/mkleinb/devstarCode/blob/master/README.md) - Join a rebel squad, develop Microservices together and defeat the DevStar backend application
 + [Run your first serverless Function using FnProject](AppDev/functions/readme.md) 
 
 ## Prerequisites ##
